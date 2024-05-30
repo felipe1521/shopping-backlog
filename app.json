@@ -18,10 +18,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.felipe1521.shoppingbacklog"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0048ca5f-a021-427f-91c2-f8b61b17f768"
+      }
     }
   }
 }
